@@ -2,7 +2,7 @@
   {
     "key": 1,
     "title": "React E-Commerce",
-    "imageSrc": "project/messhohome.png",
+    "imageSrc": "https://images.meesho.com/images/marketing/1757490578069.webp",
     "description": "Built a responsive E-Commerce site with product listings and Cash on Delivery checkout using React.js, Bootstrap, and React Router.",
     "demo": "https://e-commerce-website-three-orcin.vercel.app/",
     "source": "https://github.com/durgasmahajan/E-commerce-Website"
@@ -10,7 +10,7 @@
   {
     "key": 2,
     "title": "CDMI",
-    "imageSrc": "project/cdmihome.png",
+    "imageSrc": "https://www.cdmi.in/sliders/NSDC1.jpg",
     "description": "Built a responsive multi-page Coaching Institute website with course listings and contact form using  React.js.",
     "demo": "https://cdmi-beta.vercel.app/",
     "source": "https://github.com/durgasmahajan/CDMI-"
@@ -18,7 +18,7 @@
   {
     "key": 3,
     "title": "Newspaper",
-    "imageSrc": "project/newshome.png",
+    "imageSrc": "https://i.ytimg.com/vi/EpAO4jqauaw/maxresdefault.jpg",
     "description": "Developed a news web app using News API to fetch and display real-time news with a responsive and user-friendly interface.",
     "demo": "https://news-coral-pi.vercel.app/",
     "source": "https://github.com/durgasmahajan/News"
