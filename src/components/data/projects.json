@@ -12,7 +12,7 @@
     "title": "CDMI",
     "imageSrc": "project/cdmihome.png",
     "description": "Built a responsive multi-page Coaching Institute website with course listings and contact form using  React.js.",
-    "demo": "https://github.com/durgasmahajan/CDMI-",
+    "demo": "https://cdmi-beta.vercel.app/",
     "source": "https://github.com/durgasmahajan/CDMI"
   },
   {
